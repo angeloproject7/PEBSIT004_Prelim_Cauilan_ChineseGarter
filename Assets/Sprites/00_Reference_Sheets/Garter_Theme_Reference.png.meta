@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: aacb4cfa1fc31b74aafc1597dc43ca4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7395541911847916796
+    second: Garter_Theme_Reference_0
+  - first:
+      213: -3643654708345289922
+    second: Garter_Theme_Reference_1
+  - first:
+      213: -8225183731167336209
+    second: Garter_Theme_Reference_2
+  - first:
+      213: 7206367209476836682
+    second: Garter_Theme_Reference_3
+  - first:
+      213: -1044867850011281719
+    second: Garter_Theme_Reference_4
+  - first:
+      213: -5368859519728858463
+    second: Garter_Theme_Reference_5
+  - first:
+      213: -4191034351151010043
+    second: Garter_Theme_Reference_6
+  - first:
+      213: 4347566699914323431
+    second: Garter_Theme_Reference_7
+  - first:
+      213: -5780153063314856029
+    second: Garter_Theme_Reference_8
+  - first:
+      213: -9113552379520265238
+    second: Garter_Theme_Reference_9
+  - first:
+      213: 8050713933329135094
+    second: Garter_Theme_Reference_10
+  - first:
+      213: -7189936000487604286
+    second: Garter_Theme_Reference_11
+  - first:
+      213: 6140628441138742848
+    second: Garter_Theme_Reference_12
+  - first:
+      213: 7635451347124427046
+    second: Garter_Theme_Reference_13
+  - first:
+      213: -5611342923578263793
+    second: Garter_Theme_Reference_14
+  - first:
+      213: 1024415046172264231
+    second: Garter_Theme_Reference_15
+  - first:
+      213: 343503801662892098
+    second: Garter_Theme_Reference_16
+  - first:
+      213: -1675499443117310721
+    second: Garter_Theme_Reference_17
+  - first:
+      213: -7411282747372931390
+    second: Garter_Theme_Reference_18
+  - first:
+      213: 3812581766928829277
+    second: Garter_Theme_Reference_19
+  - first:
+      213: 512479601655135627
+    second: Garter_Theme_Reference_20
+  - first:
+      213: 2253184026233966427
+    second: Garter_Theme_Reference_21
+  - first:
+      213: 3733610238113908200
+    second: Garter_Theme_Reference_22
+  - first:
+      213: -8823668419018459316
+    second: Garter_Theme_Reference_23
+  - first:
+      213: 5328624770124569131
+    second: Garter_Theme_Reference_24
+  - first:
+      213: 5490165496147123770
+    second: Garter_Theme_Reference_25
+  - first:
+      213: -7201308245788349195
+    second: Garter_Theme_Reference_26
+  - first:
+      213: 6092209477611226491
+    second: Garter_Theme_Reference_27
+  - first:
+      213: 7765499524725262464
+    second: Garter_Theme_Reference_28
+  - first:
+      213: -8206920434752699935
+    second: Garter_Theme_Reference_29
+  - first:
+      213: -4370625245006660256
+    second: Garter_Theme_Reference_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 979
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf455318f2e32a660800000000000000
+      internalID: 7395541911847916796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 987
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3346e009532f6dc0800000000000000
+      internalID: -3643654708345289922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_2
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 989
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e273b9f64add80800000000000000
+      internalID: -8225183731167336209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 476
+        width: 211
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dc3e9cbc8220460800000000000000
+      internalID: 7206367209476836682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 978
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f9d2f932ef71f0800000000000000
+      internalID: -1044867850011281719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 961
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa469556bafd75b0800000000000000
+      internalID: -5368859519728858463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_6
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 935
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f2f22767476d5c0800000000000000
+      internalID: -4191034351151010043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 927
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e5b111e8a55c30800000000000000
+      internalID: 4347566699914323431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_8
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 911
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76bb9d965c8cfa0800000000000000
+      internalID: -5780153063314856029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 945
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae357c08568268180800000000000000
+      internalID: -9113552379520265238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 929
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5fe58faa1e9bf60800000000000000
+      internalID: 8050713933329135094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 477
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb42d2d47383c90800000000000000
+      internalID: -7189936000487604286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 407
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464cb36805e73550800000000000000
+      internalID: 6140628441138742848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 431
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629112dbb8296f960800000000000000
+      internalID: 7635451347124427046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_14
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 385
+        width: 361
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07373757518022b0800000000000000
+      internalID: -5611342923578263793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 311
+        width: 241
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c9a19e04773e00800000000000000
+      internalID: 1024415046172264231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_16
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 327
+        width: 219
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ec1d33ee54c400800000000000000
+      internalID: 343503801662892098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 27
+        width: 513
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb0a7322e6fb8e0800000000000000
+      internalID: -1675499443117310721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_18
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 375
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6fad0ab95d52990800000000000000
+      internalID: -7411282747372931390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_19
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 23
+        width: 301
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b8ce6cae209e430800000000000000
+      internalID: 3812581766928829277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_20
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 171
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db9438b71bc1700800000000000000
+      internalID: 512479601655135627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 295
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f82491feae44f10800000000000000
+      internalID: 2253184026233966427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_22
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 249
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58a84eab270d330800000000000000
+      internalID: 3733610238113908200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_23
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 149
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47729c92580c8580800000000000000
+      internalID: -8823668419018459316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 131
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a5f940ff313f940800000000000000
+      internalID: 5328624770124569131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_25
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 135
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e94fb3e6cf03c40800000000000000
+      internalID: 5490165496147123770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_26
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 23
+        width: 201
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca1bbfd40df0c90800000000000000
+      internalID: -7201308245788349195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 22
+        width: 235
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b750942fd30eb8450800000000000000
+      internalID: 6092209477611226491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 59
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c6b2aca894cb60800000000000000
+      internalID: 7765499524725262464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 59
+        width: 230
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1cba2c8592b1e80800000000000000
+      internalID: -8206920434752699935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garter_Theme_Reference_30
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df5090f7b6853c0800000000000000
+      internalID: -4370625245006660256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Garter_Theme_Reference_0: 7395541911847916796
+      Garter_Theme_Reference_1: -3643654708345289922
+      Garter_Theme_Reference_10: 8050713933329135094
+      Garter_Theme_Reference_11: -7189936000487604286
+      Garter_Theme_Reference_12: 6140628441138742848
+      Garter_Theme_Reference_13: 7635451347124427046
+      Garter_Theme_Reference_14: -5611342923578263793
+      Garter_Theme_Reference_15: 1024415046172264231
+      Garter_Theme_Reference_16: 343503801662892098
+      Garter_Theme_Reference_17: -1675499443117310721
+      Garter_Theme_Reference_18: -7411282747372931390
+      Garter_Theme_Reference_19: 3812581766928829277
+      Garter_Theme_Reference_2: -8225183731167336209
+      Garter_Theme_Reference_20: 512479601655135627
+      Garter_Theme_Reference_21: 2253184026233966427
+      Garter_Theme_Reference_22: 3733610238113908200
+      Garter_Theme_Reference_23: -8823668419018459316
+      Garter_Theme_Reference_24: 5328624770124569131
+      Garter_Theme_Reference_25: 5490165496147123770
+      Garter_Theme_Reference_26: -7201308245788349195
+      Garter_Theme_Reference_27: 6092209477611226491
+      Garter_Theme_Reference_28: 7765499524725262464
+      Garter_Theme_Reference_29: -8206920434752699935
+      Garter_Theme_Reference_3: 7206367209476836682
+      Garter_Theme_Reference_30: -4370625245006660256
+      Garter_Theme_Reference_4: -1044867850011281719
+      Garter_Theme_Reference_5: -5368859519728858463
+      Garter_Theme_Reference_6: -4191034351151010043
+      Garter_Theme_Reference_7: 4347566699914323431
+      Garter_Theme_Reference_8: -5780153063314856029
+      Garter_Theme_Reference_9: -9113552379520265238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
